@@ -1,0 +1,42 @@
+.header {
+  text-align: left;
+  margin-left: 35px;
+}
+
+.navbar {
+  list-style: none;
+  display: flex;
+}
+.navbar a {
+  text-decoration: none;
+}
+.navbar a:link {
+  color: rgb(49, 56, 160);
+}
+
+.navbar a:hover {
+  color: rgb(22, 19, 19);
+}
+
+.content {
+  margin: 30px;
+  text-align: left;
+}
+
+.content h3 {
+  color: blue;
+}
+
+.footer {
+  list-style: none;
+  position: relative;
+  bottom: 0px;
+  right: 0px;
+  margin-left: 440px;
+}
+
+.urunler {
+  position: relative;
+  text-align: center;
+  list-style-position: inside;
+}
