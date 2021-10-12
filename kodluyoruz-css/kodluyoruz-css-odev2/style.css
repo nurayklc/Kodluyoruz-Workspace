@@ -1,0 +1,51 @@
+body {
+    margin-left: 50px;
+    width: 900px;
+}
+.center {
+    text-align: center;
+}
+.content {
+    text-align: center;
+    width: 896px;
+    background-color: rgb(241, 238, 238);
+}
+.google-input {
+    width: 300px;
+}
+.one {
+    list-style-type: none;
+    float: left;
+    background-color: rgb(126,229,218);
+    width: 350px;
+    height: 80px;
+    margin: 2px;
+    padding-top: 8px;
+}
+
+.two {
+    list-style-type: none;
+    float: left;
+    width: 150px;
+    height: 80px;
+    margin: 2px;
+    padding-top: 8px;
+    background-color: rgb(112,204,194);
+}
+.three {
+    background-color: rgb(98,179,170);
+    list-style-type: none;
+    float: left;
+    width: 385px;
+    height: 80px;
+    margin: 2px;
+    padding-top: 8px;
+}
+
+.footer {
+    font-size: 14px;
+    width: 900px;
+    height: 200px;
+    margin-top: 120px;
+    text-align: center;
+}
