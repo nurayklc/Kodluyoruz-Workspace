@@ -2,6 +2,9 @@
 -----------------------------------------------------------------------------------------------
 Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
+Kodluyoruz ödevleri, alıştırmaları daha sonradan eklenmiştir.
+
+The Big Bang Theory
 ![picture](bigbang.jpg)
 
 ## Installation
