@@ -4,7 +4,8 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluştur
 
 Kodluyoruz ödevleri, alıştırmaları daha sonradan eklenmiştir.
 
-The Big Bang Theory
+## The Big Bang Theory
+
 ![picture](bigbang.jpg)
 
 ## Installation
