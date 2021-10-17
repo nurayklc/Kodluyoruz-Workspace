@@ -1,0 +1,18 @@
+#bg-new {
+    background-color: #434547 ;
+}
+
+.container-back {
+    background-color: #E9ECEF ;
+}
+
+.container li {
+    list-style-position: inside;
+}
+
+.text-purple {
+    color: rgb(172, 76, 172);
+}
+.container h3 {
+    color: orange;
+}
