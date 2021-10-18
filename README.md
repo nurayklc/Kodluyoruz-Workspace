@@ -6,7 +6,7 @@ Kodluyoruz ödevleri, alıştırmaları daha sonradan eklenmiştir.
 
 ## The Big Bang Theory
 
-![picture](bigbang.jpg)
+![picture](picture.PNG)
 
 ## Installation
 

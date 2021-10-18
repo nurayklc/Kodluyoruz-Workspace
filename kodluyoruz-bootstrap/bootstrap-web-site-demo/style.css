@@ -1,0 +1,11 @@
+.avatar {
+    width: 125px;
+    height: 125px;
+    border-radius: 100%;
+    align-self: center;
+}
+
+.mini-post {
+    width: 100%;
+    height: 1850%;
+}
