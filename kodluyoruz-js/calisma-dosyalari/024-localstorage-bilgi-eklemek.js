@@ -1,0 +1,11 @@
+// localStorage icerisine bilgi kaydetmek:
+let email = "asdaf0101@gmail.com"
+localStorage.setItem('userEmail', email) // -> anahtar, deger yapisi kullanilir(key, value)
+
+// localStorage icerisindeki bilgiyi bir degiskene atamak ve cagirmak:
+let localStorageEMailInfo = localStorage.getItem('userEmail') // daha once atadigimiz anahtar bilgisi
+
+console.log(localStorageEMailInfo)
+
+// localStorage icerisinden istenilen Key bilgisinin silinmesi:
+localStorage.removeItem('userEmail') // key bilgisini yazarak silebiliriz..
