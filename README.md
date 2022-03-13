@@ -1,31 +1,48 @@
-# Kodluyoruz İlk Repo
+# Kodluyoruz Frontend Eğitimi
 -----------------------------------------------------------------------------------------------
-Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
+This repository created Front-End Education with [Kodluyoruz](https://www.kodluyoruz.org/) & [Patika.dev](https://www.patika.dev/tr).
 
-Kodluyoruz ödevleri, alıştırmalarını içermektedir.
+Includes homework and exercises with Kodluyoruz and Patika.dev.
+
+For Example: 
 
 ![picture](picture.PNG)
 
 ## Installation
 
-Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
+First, clone the project.(Your repository link)
 
 `git clone https://github.com/nurayklc/kodluyoruz-frontend-egitimi.git`
 
 ## Usage
 
-Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
+After cloning the project, open it in Visual Studio Code.
 
-Linux için:
+For Linux:
  
 ```
-cd kodluyoruzilkrepo
+cd kodluyoruz-frontend-egitimi
 code .
 ```
 
+## Html-Css Recipe Project
+
+This recipe project is includes specific a recipe.
+
+- Click for Live [Recipe](https://nurayklc.github.io/kodluyoruz-frontend-egitimi/kodluyoruz-html/kodluyoruz-html-odev3/cook.html) 
+
+
+## Javascript Clock Project
+
+This clock project is show real time clock.
+
+- Click for [Clock Project File](https://github.com/nurayklc/kodluyoruz-frontend-egitimi/tree/main/kodluyoruz-js/clock-work-js)
+
+- Click for Live [Javascript Clock Project](https://nurayklc.github.io/kodluyoruz-frontend-egitimi/kodluyoruz-js/clock-work-js/index.html)
+
 ## Contributing
 
-Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
+Pull requests are accepted. For major changes, please open a thread to discuss what you want to change first.
 
 ## License
 
