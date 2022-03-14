@@ -1,15 +1,17 @@
 import PropTypes from "prop-types";
 
-function User({ name, surname, age, isLoggedIn, friends }) {
+function User({ name, surname, age, isLoggedIn, friends, address }) {
+  if (!isLoggedIn) {
+    return <div>You are not Log in</div>;
+  }
   return (
     <div>
-      {isLoggedIn ? (
+      {
         <h1>
           Welcome {name} {surname}({age})
         </h1>
-      ) : (
-        "You are not Log in"
-      )}
+      }
+      {address.title} - {address.zip}
       {friends &&
         friends.map((friend) => (
           <div key={friend.id}>
@@ -26,6 +28,16 @@ User.propTypes = {
   age: PropTypes.oneOfType([PropTypes.number, PropTypes.string]),
   isLoggedIn: PropTypes.bool,
   friends: PropTypes.arrayOf,
+  address: PropTypes.shape({
+    title: PropTypes.string,
+    zip: PropTypes.number,
+  }),
+};
+
+// Varsayılan değer atamak için defaultProps kullanılır.
+User.defaultProps = {
+  name:"İsimsiz",
+  isLoggedIn: false,
 };
 
 export default User;

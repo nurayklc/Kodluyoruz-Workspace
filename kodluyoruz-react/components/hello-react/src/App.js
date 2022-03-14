@@ -25,7 +25,17 @@ const friends = [
 function App() {
   return (
     <div>
-      <User name="Nuray" surname="Kılıç" isLoggedIn={true} friends={friends} age="23"/>
+      <User
+        name="Nuray"
+        surname="Kılıç"
+        // isLoggedIn={true}
+        friends={friends}
+        age="23"
+        address = {{
+          title : "Ankara",
+          zip : 34006,
+        }}
+      />
       <h1>Hello {name}!</h1>
       <Header />
       <p>
