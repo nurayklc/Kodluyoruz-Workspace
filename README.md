@@ -25,7 +25,7 @@ cd kodluyoruz-frontend-egitimi
 code .
 ```
 
-## Html-Css Recipe Project
+## Html and Css Recipe Project
 
 This recipe project is includes specific a recipe.
 
